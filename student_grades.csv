@@ -1,0 +1,51 @@
+Student,Course,Score
+Ali,Mathematics,16
+Maryam,Mathematics,13
+Vahid,Mathematics,17
+Sara,Mathematics,14
+Hossein,Mathematics,16
+Fatemeh,Mathematics,19
+Mohammad,Mathematics,12
+Aida,Mathematics,16
+Amir,Mathematics,17
+Neda,Mathematics,14
+Ali,Physics,13
+Maryam,Physics,17
+Vahid,Physics,17
+Sara,Physics,12
+Hossein,Physics,15
+Fatemeh,Physics,14
+Mohammad,Physics,11
+Aida,Physics,17
+Amir,Physics,15
+Neda,Physics,11
+Ali,Programming,14
+Maryam,Programming,10
+Vahid,Programming,19
+Sara,Programming,15
+Hossein,Programming,18
+Fatemeh,Programming,10
+Mohammad,Programming,19
+Aida,Programming,12
+Amir,Programming,16
+Neda,Programming,13
+Ali,logic circuit,18
+Maryam,logic circuit,12
+Vahid,logic circuit,14
+Sara,logic circuit,12
+Hossein,logic circuit,16
+Fatemeh,logic circuit,14
+Mohammad,logic circuit,18
+Aida,logic circuit,16
+Amir,logic circuit,11
+Neda,logic circuit,13
+Ali,Statistics,18
+Maryam,Statistics,11
+Vahid,Statistics,19
+Sara,Statistics,18
+Hossein,Statistics,19
+Fatemeh,Statistics,14
+Mohammad,Statistics,11
+Aida,Statistics,13
+Amir,Statistics,16
+Neda,Statistics,17
